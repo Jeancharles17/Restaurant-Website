@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2601d53.css",
+    "main.js": "/static/js/main.17b61503.js",
+    "static/media/chef1.png": "/static/media/chef1.e9fe353373365c58cea3.png",
+    "static/media/chef2.png": "/static/media/chef2.fd238705de083c7ffe37.png",
+    "static/media/chef4.png": "/static/media/chef4.3d6d28522b6cdb646923.png",
+    "static/media/salmon.webp": "/static/media/salmon.9e22ce7390eba3a5c10d.webp",
+    "static/media/pankes.mp4": "/static/media/pankes.329e3a327dca1e29d3d4.mp4",
+    "static/media/crepes.png": "/static/media/crepes.35b74003e423585523bf.png",
+    "static/media/sandwich.png": "/static/media/sandwich.41fcbe1f878598ad1e9d.png",
+    "static/media/juice.webp": "/static/media/juice.71b1b8dc22de83717e56.webp",
+    "static/media/steak.png": "/static/media/steak.53d9a998d2d13c418d81.png",
+    "static/media/chicken.png": "/static/media/chicken.13bcc73bc65f9bb575c0.png",
+    "static/media/chef3.png": "/static/media/chef3.6dc599b12205cd2c8261.png",
+    "static/media/egg.png": "/static/media/egg.660f0c702585bcbd91df.png",
+    "static/media/pancakes1.png": "/static/media/pancakes1.ce7cbf8efa226768551c.png",
+    "static/media/french.png": "/static/media/french.f3298ba1e28383a77db9.png",
+    "static/media/PARIS.webp": "/static/media/PARIS.36d0af0b346724cc33f0.webp",
+    "static/media/chef5.png": "/static/media/chef5.0f47ef70ac62df185385.png",
+    "static/media/london.webp": "/static/media/london.8d8d54ecc32aeb184a20.webp",
+    "static/media/Newyork.webp": "/static/media/Newyork.92c1039bb6337260a318.webp",
+    "static/media/dubai.jpg": "/static/media/dubai.8072556207f12c6cd253.jpg",
+    "static/media/acai.png": "/static/media/acai.09c802cc3de92d433576.png",
+    "static/media/cros.png": "/static/media/cros.b7c9bba477d3e32dff25.png",
+    "static/media/miami.jpeg": "/static/media/miami.de9b8d667efc19e03060.jpeg",
+    "static/media/LA.jpg": "/static/media/LA.82ba7faaed1b694f91eb.jpg",
+    "index.html": "/index.html",
+    "main.d2601d53.css.map": "/static/css/main.d2601d53.css.map",
+    "main.17b61503.js.map": "/static/js/main.17b61503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2601d53.css",
+    "static/js/main.17b61503.js"
+  ]
+}
